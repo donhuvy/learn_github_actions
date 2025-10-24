@@ -1,0 +1,6 @@
+# Code owners for the entire repository
+*       @daominhthu89
+
+# Code owners for specific directories or files
+/docs/  @daominhthu89
+/src/   @daominhthu89
